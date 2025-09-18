@@ -1,0 +1,14 @@
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\obj\Debug\net8.0\ООП java Лабораторна 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\obj\Debug\net8.0\ООП java Лабораторна 1.AssemblyInfoInputs.cache
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\obj\Debug\net8.0\ООП java Лабораторна 1.AssemblyInfo.cs
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\obj\Debug\net8.0\ООП java Лабораторна 1.csproj.CoreCompileInputs.cache
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\bin\Debug\net8.0\ООП java Лабораторна 1.exe
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\bin\Debug\net8.0\ООП java Лабораторна 1.deps.json
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\bin\Debug\net8.0\ООП java Лабораторна 1.runtimeconfig.json
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\bin\Debug\net8.0\ООП java Лабораторна 1.dll
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\bin\Debug\net8.0\ООП java Лабораторна 1.pdb
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\obj\Debug\net8.0\ООП java Лабораторна 1.dll
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\obj\Debug\net8.0\refint\ООП java Лабораторна 1.dll
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\obj\Debug\net8.0\ООП java Лабораторна 1.pdb
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\obj\Debug\net8.0\ООП java Лабораторна 1.genruntimeconfig.cache
+D:\Навчання NTLU\курс 2\ООП java\лабораторна робота 1\ООП java Лабораторна 1\ООП java Лабораторна 1\obj\Debug\net8.0\ref\ООП java Лабораторна 1.dll
